@@ -1,0 +1,19 @@
+{
+  "name": "hexo-steem",
+  "version": "0.0.2",
+  "description": "add your steem articles on your hexo blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "steem",
+    "hexo",
+    "blog"
+  ],
+  "author": "Adrien M",
+  "license": "ISC",
+  "dependencies": {
+    "steem": "^0.3.31"
+  }
+}
